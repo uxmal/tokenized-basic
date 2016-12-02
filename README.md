@@ -1,2 +1,2 @@
 # tokenized-basic
-Reads tokenized BASIC files
+Reads tokenized TRS-80 Level II BASIC files
